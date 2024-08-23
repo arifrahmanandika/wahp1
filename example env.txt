@@ -1,0 +1,11 @@
+DB_HOST=
+DB_USER=
+DB_PASS=
+DB_NAME=
+DB_PORT=
+USER_TERMINAL=
+PORT=
+NOHP=
+
+PESAN_TELP=*📵Maaf, Panggilan suara tidak diizinkan!*
+📝Untuk keperluan Komplain/Konfirmasi/Informasi silahkan chat ke CS. 082313131323
